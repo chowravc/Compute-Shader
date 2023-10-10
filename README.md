@@ -1,1 +1,1 @@
-# NBodyComputeShader
+# Compute Shader Demo in Python
